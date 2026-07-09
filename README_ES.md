@@ -1,4 +1,4 @@
-# 🔍 Detección de Fraude Financiero — Scoring de Riesgo en Tiempo Real
+# 🔍 Detección de Fraude Financiero — Scoring de Riesgo en Tiempo Real.
 
 > **Pipeline end-to-end de detección de fraude que identifica el 97% de transacciones fraudulentas en 284K+ registros — combinando machine learning, optimización de threshold e impacto de negocio para generar $55.002 de beneficio neto.**
 
